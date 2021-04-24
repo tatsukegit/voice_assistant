@@ -1,0 +1,1 @@
+#Checks all the settings and configs and then starts the core
